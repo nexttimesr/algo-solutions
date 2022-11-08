@@ -1,4 +1,4 @@
 # algo-solutions
-solutions to some algorithm challenges/problems 
+my solutions to some algorithm challenges/problems 
 
-TODO: Google Foobar, different sorting, hashmap custom key etc.
+TODO: Formation, different sorting, hashmap custom key etc.
