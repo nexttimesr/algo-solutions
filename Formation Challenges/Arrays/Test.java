@@ -15,5 +15,11 @@ public class Test {
         ArraySequenceNTo1.test();
         DiagonalSum.test();
         PuzzleArrangement.test();
+        MatrixTraversals.test();
+        MinimumAverage.test();
+        ZigZagTraversal.test();
+        ZigZagConversion.test();
+        GroupAnagrams.test();
+        DutchNationalFlag.test();
     }
 }
