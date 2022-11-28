@@ -1,10 +1,13 @@
 package LiskedList;
 
 public class ListNode {
+    public ListNode prev;
     public ListNode next;
+    public int key;
     public int value;
     public ListNode() {
         this.next = null;
+        this.prev = null;
         this.value = -1;
     }
     public ListNode(int value) {

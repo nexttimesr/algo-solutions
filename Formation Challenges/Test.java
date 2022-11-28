@@ -1,5 +1,6 @@
 import Arrays.*;
 import HashStructures.*;
+import LiskedList.*;
 import Recursion.*;
 import Tree.*;
 
@@ -35,5 +36,13 @@ public class Test {
         AppendToLinkedList.test();
         SubstringCount.test();
         RecursionConversion.test();
+        MergeKSortedLists.test();
+        FindMax.test();
+        SecondToLast.test();
+        ToReverseArray.test();
+        AllTernaryNumbers.test();
+        Atoi.test();
+        FindKthToLast.test();
+        LRUCacheTest.test();
     }
 }
