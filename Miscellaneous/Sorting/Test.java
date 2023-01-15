@@ -16,5 +16,21 @@ public class Test {
         System.out.println(Arrays.toString(BubbleSort.sort(sorted.clone())));
         System.out.println(Arrays.toString(BubbleSort.sort(sortedDesc.clone())));
         System.out.println();
+        System.out.println("Selection Sort");
+        System.out.println(Arrays.toString(SelectionSort.sort(arr.clone())));
+        System.out.println(Arrays.toString(SelectionSort.sort(sorted.clone())));
+        System.out.println(Arrays.toString(SelectionSort.sort(sortedDesc.clone())));
+        System.out.println();
+        System.out.println("Insertion Sort");
+        System.out.println(Arrays.toString(InsertionSort.sort(arr.clone())));
+        System.out.println(Arrays.toString(InsertionSort.sort(sorted.clone())));
+        System.out.println(Arrays.toString(InsertionSort.sort(sortedDesc.clone())));
+        System.out.println();
+        System.out.println("Merge Sort");
+        System.out.println(Arrays.toString(MergeSort.sort(arr.clone())));
+        System.out.println(Arrays.toString(MergeSort.sort(sorted.clone())));
+        System.out.println(Arrays.toString(MergeSort.sort(sortedDesc.clone())));
+        System.out.println();
+
     }
 }
